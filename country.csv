@@ -1,0 +1,10 @@
+Country_ID,Country_Name,Region_id,Vorwahl
+AR,Argentina,1,00-54
+AU,Australia,2,00-61
+BE,Belgium,3,00-32
+BR,Brazil,4,00-55
+CA,Canada,5,00-1
+CH,Switzerland,6,00-41
+CN,China,7,00-86
+NaN,Mali,8,00-223
+DE,Deutschland,9,NaN
